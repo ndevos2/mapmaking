@@ -1,4 +1,4 @@
-1. Assetize office objects sheets for splice and upload
+1. DONE Assetize office objects sheets for splice and upload
 2. Draw extra Office “reach objects”. 
 3.
 8 furniture
