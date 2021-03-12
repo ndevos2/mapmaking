@@ -1,5 +1,5 @@
-1. Pastel colours pitches - do first, for easter
-1. Office coffee maker and microwave 
+DONE 1. Pastel colours pitches - do first, for easter
+DONE 1. Office coffee maker and microwave 
 2. Make Victorian Furniture Notion Doc (must haves and reach items)
 3. Illustrate 
  furniture
@@ -12,7 +12,7 @@ TO QA / TO UPLOAD - st patties - march 17
 
 
 -napkins carousel 
--pie
+DONE -pie
 
 
 ----
