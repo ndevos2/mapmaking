@@ -45,13 +45,18 @@ Fire
 Chatter
 Forest
 Street 
+a Clock, Ticking
+a Fishtank, Bubbling
+a Water Fountain, Waterfalling
+
+
 
 Where people are on the map correlating to what sounds people want to work near
 
 $500 budget for sounds 
 
 ----
-- easter - april 4 (DAUD, JADEN wants one specific czech object as a “reach”)
+- easter - april 4 
 - 1x1.5 tables (drafting table)
 - playing cards .io
 - more food
