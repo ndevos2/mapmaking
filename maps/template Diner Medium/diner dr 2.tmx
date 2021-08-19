@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="24" height="24" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
- <tileset firstgid="1" source="../../../tilesets/Gather Floors 1.x.tsx"/>
- <tileset firstgid="2561" source="../../../tilesets/Gather Walls Interior 1.x.tsx"/>
- <tileset firstgid="7561" source="../../slack/slack furn.tsx"/>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="24" height="24" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="../../tilesets/Gather Floors 1.x.tsx"/>
+ <tileset firstgid="2561" source="../../tilesets/Gather Walls Interior 1.x.tsx"/>
+ <tileset firstgid="7561" source="../Slack Office/slack furn.tsx"/>
  <group id="6" name="BG">
   <layer id="1" name="floors" width="24" height="24">
    <data encoding="csv">

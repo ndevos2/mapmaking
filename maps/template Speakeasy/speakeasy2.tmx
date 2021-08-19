@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="30" height="22" tilewidth="32" tileheight="32" infinite="0" nextlayerid="21" nextobjectid="1">
- <tileset firstgid="1" source="../../../tilesets/Gather Floors 1.x.tsx"/>
- <tileset firstgid="2561" source="../../../tilesets/Gather Avatars 1.x.tsx"/>
- <tileset firstgid="2625" source="../../../tilesets/Gather Walls Interior 1.x.tsx"/>
- <tileset firstgid="7625" source="../../../tilesets/Gather Tables 1.x.tsx"/>
- <tileset firstgid="8691" source="../../../tilesets/Gather Shadows 1.x.tsx"/>
- <tileset firstgid="9121" source="../../../tilesets/Gather Decoration 1.x.tsx"/>
- <tileset firstgid="15961" source="../../slack/slack furn.tsx"/>
- <tileset firstgid="17211" source="../../../tilesets/Gather Chairs 1.x.tsx"/>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="30" height="22" tilewidth="32" tileheight="32" infinite="0" nextlayerid="21" nextobjectid="1">
+ <tileset firstgid="1" source="../../tilesets/Gather Floors 1.x.tsx"/>
+ <tileset firstgid="2561" source="../../tilesets/Gather Avatars 1.x.tsx"/>
+ <tileset firstgid="2625" source="../../tilesets/Gather Walls Interior 1.x.tsx"/>
+ <tileset firstgid="7625" source="../../tilesets/Gather Tables 1.x.tsx"/>
+ <tileset firstgid="8691" source="../../tilesets/Gather Shadows 1.x.tsx"/>
+ <tileset firstgid="9121" source="../../tilesets/Gather Decoration 1.x.tsx"/>
+ <tileset firstgid="16681" source="../Slack Office/slack furn.tsx"/>
+ <tileset firstgid="17931" source="../../tilesets/Gather Chairs 1.x.tsx"/>
  <group id="5" name="BG">
   <layer id="1" name="floor 1" width="30" height="22">
    <data encoding="csv">
@@ -251,8 +251,8 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 9061,9062,9063,0,9061,9062,9063,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 9071,9072,9073,0,9071,9072,9073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-9081,9082,9083,0,9081,9082,9083,0,0,0,16630,16630,16630,16630,16630,16630,16630,16630,16630,16630,16630,0,0,0,0,0,0,0,0,0,
-9031,9032,9033,0,0,0,9031,9032,9033,0,16630,16630,16630,16630,16630,16630,16630,16630,16630,16630,16630,0,0,0,0,0,9061,9062,9063,9063,
+9081,9082,9083,0,9081,9082,9083,0,0,0,17350,17350,17350,17350,17350,17350,17350,17350,17350,17350,17350,0,0,0,0,0,0,0,0,0,
+9031,9032,9033,0,0,0,9031,9032,9033,0,17350,17350,17350,17350,17350,17350,17350,17350,17350,17350,17350,0,0,0,0,0,9061,9062,9063,9063,
 9041,9042,9043,0,0,0,9041,9042,9043,0,0,0,0,0,9064,9065,9066,0,0,0,0,0,0,0,0,0,9071,9072,9073,9073,
 9051,9052,9053,0,0,0,9051,9052,9053,0,0,0,0,0,9074,9075,9076,0,0,0,0,0,0,0,0,0,9081,9082,9083,9083,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,9084,9085,9086,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -277,7 +277,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 9031,9062,9063,0,9061,9062,9063,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 9041,9072,9073,0,9071,9072,9073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-9051,9082,9083,0,9081,9082,9083,0,0,0,16632,16632,16632,16632,16632,16632,16632,16632,16632,16632,16632,0,0,0,0,0,0,0,0,0,
+9051,9082,9083,0,9081,9082,9083,0,0,0,17352,17352,17352,17352,17352,17352,17352,17352,17352,17352,17352,0,0,0,0,0,0,0,0,0,
 9031,9032,9033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 9041,9042,9043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 9051,9052,9053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
